@@ -1,3 +1,3 @@
 this is a content
 here goes the second line
-don't forget about leaving newline at the end of each file!
+please don't forget about leaving newline at the end of each file!
